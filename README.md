@@ -1,6 +1,6 @@
 # CrackJS
 
-Python3爬虫实战、JS加解密
+Python3爬虫、JS加解密
 
 
 
